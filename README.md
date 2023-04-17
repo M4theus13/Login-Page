@@ -11,3 +11,7 @@
 
 <h3>Mobile</h3>
 <img src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/mobile.png" alt="mobile">
+
+<h1 align="center"> ⚙ Tecnologias </h1>
+
+<p align="center"> 🟠HTML<br/> 🔵CSS<br/> ⚫Github</p>
