@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    box-sizing: border-box;
 }
 
 .main-login {
@@ -23,7 +27,12 @@
 }
 
 .left-login > h1 {
+    font-size: 3vw;
     color: #77ffc0;
+}
+
+.svg {
+    width: 35vw;
 }
 
 .card-login {
@@ -40,11 +49,12 @@
 
 .card-login > h1 {
     color: #00ff88;
-    font-weight: 800;
+    font-weight: bold;
     margin: 0;
 }
 
 .textfield {
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -76,5 +86,51 @@
 
 .button-login {
     width: 100%;
-    
+    border: none;
+    border-radius: 8px;
+    margin: 25px;
+    padding: 16px 0;
+    outline: none;
+    text-transform: uppercase;
+    font-weight:800;
+    letter-spacing: 2px;
+    color: #2b134b;
+    background-color: #00ff88;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px #00ff8052;
 }
+
+@media (max-width:950px) {
+    .card-login {
+        width: 95%;
+    }
+}
+
+@media (max-width:600px) {
+    .main-login {
+        flex-direction: column
+    }
+
+    .left-login > h1 {
+        display: none;
+    } 
+
+    .left-login {
+        width: 100%;
+        height: auto;
+    }
+
+    .svg {
+        width: 50vw;
+    }
+
+    .right-login {
+        width: 100vw;
+        height: 70vh;
+    }
+
+    .card-login {
+        width: 90%;
+    }
+}
+
