@@ -9,27 +9,35 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="main-login">
+    <div id="main-login">
         <div class="left-login">
             <h1>Faça o login<br>E entre para o nosso time</h1>
-            <img src="./svg/astronaut-animate.svg" alt="astronaut-animate" class="svg">
+            <a href="https://storyset.com/science">
+                <img src="./svg/Astronaut-bro.svg" alt="astronaut-animate" class="svg">
+            </a>
         </div>
-        <form action="index.html">
-            <div class="right-login">
-                <div class="card-login">
+        <div class="right-login">
+            <div class="card-login">
+                <div class="login-name">
                     <h1>LOGIN</h1>
-                    <div class="textfield">
-                        <label for="usuario">Usuário</label>
-                        <input type="text" name="usuario" placeholder="Usuário">
-                    </div>
-                    <div class="textfield">
-                        <label for="senha">Senha</label>
-                        <input type="password" name="senha" placeholder="Senha">
-                    </div>
-                    <button class="button-login">Login</button>
+                    
+                    <button id="button">
+                        <img class="icon" src="https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-4/256/sun-fill-256.png" style="filter: invert(1);" alt="theme" >
+                    </button>
+                    
                 </div>
+                <div class="textfield">
+                    <label for="usuario">Usuário</label>
+                    <input type="text" name="usuario" placeholder="Usuário">
+                </div>
+                <div class="textfield">
+                    <label for="senha">Senha</label>
+                    <input type="password" name="senha" placeholder="Senha">
+                </div>
+                <button class="button-login">Login</button>
             </div>
-        </form>
+        </div>
     </div>
 </body>
+<script src="script.js"></script>
 </html>
