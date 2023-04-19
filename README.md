@@ -1,5 +1,5 @@
 <h1 align="center">Sobre o Projeto</h1>
-<p>Página de login com tema dark e com responsividade ultilizando Html e Css ,projeto criado para portifolio</p>
+<p>Página de login com opção de dark mode e light mode, com responsividade ultilizando Html, Css e JavaScript ,projeto criado para portifolio</p>
 
 
 <h2 align="center">Resultados</h2>
