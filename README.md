@@ -22,4 +22,4 @@
 </div>
 <h1 align="center"> ⚙ Tecnologias </h1>
 
-<p align="center"> 🟠HTML<br/> 🔵CSS<br/> ⚫Github</p>
+<p align="center"> 🟠HTML<br/> 🔵CSS<br/> 🟡JavaScript<br/> ⚫Github</p>
