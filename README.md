@@ -40,8 +40,8 @@
 
 <div align="center">
   <a href='https://github.com/M4theus13'>
-    <img width="20%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/mobile-dark-mode.png" alt="mobile-dark">
-    <img width="20%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/mobile-light-mode.png" alt="mobile-light">
+    <img width="30%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/mobile-dark-mode.png" alt="mobile-dark">
+    <img width="30%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/mobile-light-mode.png" alt="mobile-light">
   </a>
 </div>
 <h1 align="center"> ⚙ Tecnologias </h1>
