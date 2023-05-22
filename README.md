@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/M4theus13/Login-Page#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
- <a href="https://github.com/M4theus13/Login-Page#resultados">Resultado</a> • 
+ <a href="https://github.com/M4theus13/Login-Page#resultado">Resultado</a> • 
  <a href="https://github.com/M4theus13/Login-Page#--tecnologias-">Tecnologias</a> • 
 </p>
 
@@ -17,7 +17,7 @@
   Com opção de dark mode e light mode e responsividade para telas menores
 </p>
 
-<h1 align="center">Resultados</h1>
+<h1 align="center">Resultado</h1>
 
 <h3 align="center">Desktop</h3>
 <div align="center">
