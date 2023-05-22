@@ -17,7 +17,7 @@
   Com opção de dark mode e light mode e responsividade para telas menores
 </p>
 
-<h1 align="center">Resultado</h1>
+<h2 align="center">Resultado</h2>
 
 <h3 align="center">Desktop</h3>
 <div align="center">
@@ -46,4 +46,4 @@
 </div>
 <h1 align="center"> ⚙ Tecnologias </h1>
 
-<p align="center"> 🟠HTML<br/> 🟣CSS<br/> 🟡JavaScript<br/> ⚫Github</p>
+<p align="center"> 🟠Html<br/> 🟣Css<br/> 🟡JavaScript<br/> ⚫Github</p>
