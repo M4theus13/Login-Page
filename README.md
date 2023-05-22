@@ -1,15 +1,15 @@
 <h1 align="center">Login Page</h1>
 
 <p align="center">
- <a href="https://github.com/M4theus13/Login-Page/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
- <a href="https://github.com/M4theus13/Login-Page/blob/main/README.md#resultados">Resultado</a> • 
- <a href="https://github.com/M4theus13/Login-Page/blob/main/README.md#--tecnologias-">Tecnologias</a> • 
+ <a href="https://github.com/M4theus13/Login-Page#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
+ <a href="https://github.com/M4theus13/Login-Page#resultados">Resultado</a> • 
+ <a href="https://github.com/M4theus13/Login-Page#--tecnologias-">Tecnologias</a> • 
 </p>
 
 <h2 align="center">Descrição do Projeto</h2>
 
 <h4 align="center"> 
-	✅ Relógio Digital 🚀 Finalizado ✅
+	✅ Login Page 🚀 Finalizado ✅
 </h4>
 
 <p align="center">
