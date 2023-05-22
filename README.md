@@ -22,8 +22,8 @@
 <h3 align="center">Desktop</h3>
 <div align="center">
   <a href='https://github.com/M4theus13'>
-    <img width="49%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/pc-dark-mode.png" alt="pc-dark">
-    <img width="49%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/pc-light-mode.png" alt="pc-light">
+    <img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/pc-dark-mode.png" alt="pc-dark">
+    <img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/pc-light-mode.png" alt="pc-light">
   </a>
 </div>
 
@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href='https://github.com/M4theus13'>
-    <img width="39%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/tablet-dark-mode.png" alt="tablet-dark">
-    <img width="39%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/tablet-light-mode.png" alt="tablet-light">
+    <img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/tablet-dark-mode.png" alt="tablet-dark">
+    <img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Login-Page/tablet-light-mode.png" alt="tablet-light">
   </a>
 </div>
 
